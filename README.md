@@ -69,7 +69,7 @@ DevRant is a fun community for developers to connect over code, tech & life as a
 - [devRant-Rust](https://github.com/flyingP0tat0/devrant) - A Rust wrapper for the devRant API
 - [devRant-Swift](https://github.com/troligtvis/devRant) - A Swift wrapper for the devRant API
 
-_The probably are some that I've missed. Sorry._
+_There are probably are some that I've missed. Sorry._
 
 #### Websites
 - [devRant-Stats](https://devrant-stats.github.io) - See Statistics for your devRant-Profile. Graphs, Live Stats, future projections and more!
@@ -88,6 +88,7 @@ _The probably are some that I've missed. Sorry._
 - [Devranter](https://github.com/chrishaensel/Devranter) - Another devRant wordpress plugin
 - [devRant-Plus](https://github.com/Section214/devrant-plus) - Another devRant extension for FireFox
 - [Atom-DevRant](https://github.com/sambadevi/atom-devrant) - A simple sidebar to view the devRant feed inside Atom
+- [rantBlock](https://github.com/kurtr/rantBlock) - Replace adverts with rants from devRant
 
 #### Bots
 - [devRant Slack-Bot](https://github.com/nblackburn/devrant-bot) - Share your favorite devRant moments in Slack
