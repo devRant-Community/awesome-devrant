@@ -106,7 +106,7 @@ _The probably are some that I've missed. Sorry._
 - Forbes > [devRant Reveals The Developers Who Rant The Most, But For Whom The Rant Tolls?](https://www.forbes.com/sites/curtissilver/2016/07/28/devrant-developers-rant/#3257b7996458)
 - Fossbytes > [devRant — Here’s The Ultimate App That Every Developer Must Use](http://fossbytes.com/devrant-app-for-developers-social-network-programmers-rant/)
 - SDTimes > [Report: What’s driving developers crazy](https://sdtimes.com/coding/report-whats-driving-developers-crazy/)
-- AFTmag > [Developer Rants Reveal Most Annoying Programming Languages](https://adtmag.com/articles/2016/08/08/devrant-rankings.aspx)
+- ADTmag > [Developer Rants Reveal Most Annoying Programming Languages](https://adtmag.com/articles/2016/08/08/devrant-rankings.aspx)
 - Appcelerator > [DevRant Gives Developers a Social Network All Their Own](https://www.fossmint.com/devrantron-desktop-client-for-devrant/)
 
 > Please don't hesitate to make a PR if you have more resources to share.
