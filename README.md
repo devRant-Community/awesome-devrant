@@ -81,7 +81,7 @@ _There are probably are some that I've missed. Sorry._
 
 #### Plugins & Extensions
 - [devRant Chrome Extension](https://chrome.google.com/webstore/detail/un-official-devrant-chrom/nhilbnepbfofblijmiiihfkdgmnnblie) - A devRant client for Chrome for quickly browsing the feed without leaving the site
-- [devRant FireFox Extension](https://addons.mozilla.org/en-US/firefox/addon/devrant-unofficial-extension/) - Similar to the Chrome Extension but for FireFox- 
+- [devRant FireFox Extension](https://addons.mozilla.org/en-US/firefox/addon/devrant-unofficial-extension/) - Similar to the Chrome Extension but for FireFox
 - [Pebble Watchface](https://apps.getpebble.com/en_US/application/5772d71fba2fe566a10003e2) - devRant watchface for Pebble
 - [Notifier Chrome Extension](https://chrome.google.com/webstore/detail/unofficial-notifications/nmgffgjfpcfdnkdjkbpkcindafjihmpl) - This extension will send you a notification whenever a new rant has been posted on devRant
 - [WordPress Plugin](https://wordpress.org/plugins/devranter/) - Display devRant rants in your WordPress sidebar or content
