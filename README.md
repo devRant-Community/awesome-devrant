@@ -89,6 +89,7 @@ _There are probably are some that I've missed. Sorry._
 - [devRant-Plus](https://github.com/Section214/devrant-plus) - Another devRant extension for FireFox
 - [Atom-DevRant](https://github.com/sambadevi/atom-devrant) - A simple sidebar to view the devRant feed inside Atom
 - [rantBlock](https://github.com/kurtr/rantBlock) - Replace adverts with rants from devRant
+- [devrant-widget](https://github.com/konicm8ker/devrant-widget) - A simple widget for devRant written in PHP
 
 #### Bots
 - [devRant Slack-Bot](https://github.com/nblackburn/devrant-bot) - Share your favorite devRant moments in Slack
