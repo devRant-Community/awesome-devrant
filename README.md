@@ -92,7 +92,7 @@ _There are probably are some that I've missed. Sorry._
 
 #### Bots
 - [devRant Slack-Bot](https://github.com/nblackburn/devrant-bot) - Share your favorite devRant moments in Slack
-- [DiscordDevRant](https://github.com/tankerkiller125/DiscordDevRant) - devRant Bot for Discord (Put latest post in channel, refrence post, etc.)
+- [DiscordDevRant](https://github.com/tankerkiller125/DiscordDevRant) - devRant Bot for Discord (Put latest post in channel, reference post, etc.)
 - [devRant.Bot](https://github.com/nullopt/devRant.Bot) - Another devRant Bot for Discord
 - [devRant Telegram-Bot](https://github.com/puneetsngh/devrantbot) - devRant Bot for Telegram messaging app
 - [devRantBot](https://github.com/TTvanWillegen/devRantBot) - Another devRant Bot for Discord created by and for the community
