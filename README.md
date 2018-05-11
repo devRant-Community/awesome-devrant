@@ -26,7 +26,7 @@ DevRant is a fun community for developers to connect over code, tech & life as a
 ### Links
 
 - [Official Website](https://devrant.com)
-- [Unofficial API Docs](https://devrant-docs.github.com)
+- [Unofficial API Docs](https://devrant-docs.github.io)
 - [GitHub Repo](https://github.com/devRant/devRant)
 
 ### Social
@@ -44,17 +44,29 @@ DevRant is a fun community for developers to connect over code, tech & life as a
 - [xmlRant](http://www.xmlrant.com/) - Similar to jsRant but in XML Format
 - [devRant Chrome Extension](https://chrome.google.com/webstore/detail/un-official-devrant-chrom/nhilbnepbfofblijmiiihfkdgmnnblie) - A devRant client for Chrome for quickly browsing the feed without leaving the site
 - [devRant FireFox Extension](https://addons.mozilla.org/en-US/firefox/addon/devrant-unofficial-extension) - Similar to the Chrome Extension but for FireFox
-- [devRant CLI](https://github.com/Supernerd11/terminal_devrant) - A devRant viewer in the terminal.
-- [devRant Menu Bar App](https://github.com/danillouz/devrant-menu-bar-app) - A simple menu bar app to read rants.
+- [devRant CLI](https://github.com/Supernerd11/terminal_devrant) - A devRant viewer in the terminal
+- [devRant Menu Bar App](https://github.com/danillouz/devrant-menu-bar-app) - A simple menu bar app to read rants
 
 #### Libraries
+- [devRant-C#](https://github.com/WichardRiezebos/devrant) - A C# wrapper for the devRant API
+- [devRant-Crystal](https://github.com/iostreamer-X/devRant-crystal) - A Crystal wrapper for the devRant API
+- [devGoRant](https://github.com/jayeshsolanki93/devgorant) - A Go wrapper for the devRant API
+- [JavaRant](https://github.com/LucaScorpion/JavaRant) - A Java wrapper for the devRant API
+- [devRant-JS](https://github.com/danillouz/devrant) - A JavaScript wrapper for the devRant API
+- [devRant-API](https://github.com/nblackburn/devrant-api) - Another JavaScript wrapper for the devRant API
+- [RantScript](https://github.com/RekkyRek/RantScript) - A Node.js wrapper for the devRant API (probably most extensive currently)
+- [devRant-PHP](https://github.com/pxgamer/devrant-php) - A PHP wrapper for the devRant API
+- [pirant](https://github.com/aayush26/pirant) - A Python wrapper for the devRant API
 
-#### Other
+#### Websites
 - [devRant-Stats](https://devrant-stats.github.io) - ...
 - [devRant-Docs](https://devrant-docs.github.io) - ...
 - [rantChat](https://rantchat.github.io) - ... (WIP)
 - [devBanner](https://devbanner.center) - ...
 - [devCredits](https://devcredits.herokuapp.com/) - ...
+
+#### Other
+- [semicolon.js](https://github.com/semicolon-package/semicolon.js) - A library relating to the april joke from 2017
 
 ### Mention of devRant
 - [devRant is the app for developers who like to complain (aka, all of them)](http://thenextweb.com/apps/2016/05/12/devrant-developer-wah-wah-wah-app/)
