@@ -21,7 +21,7 @@ DevRant is a fun community for developers to connect over code, tech & life as a
   - [Clients](#clients)
   - [Libraries](#libraries)
   - [Websites](#websites)
-  - [Plugins & Extensions](#plugins-extensions)
+  - [Plugins & Extensions](#plugins--extensions)
   - [Bots](#bots)
   - [Other](#other)
 - [Mention of devRant](#mention-of-devrant)
