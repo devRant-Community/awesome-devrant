@@ -46,7 +46,7 @@ DevRant is a fun community for developers to connect over code, tech & life as a
 - [jsRant](http://www.jsrant.com/) - Navigate the devRant feed in JSON format. Perfect for browsing devRant at work!
 - [xmlRant](https://www.xmlrant.com/) - Similar to jsRant but in XML Format
 - [devRant Chrome Extension](https://chrome.google.com/webstore/detail/un-official-devrant-chrom/nhilbnepbfofblijmiiihfkdgmnnblie) - A devRant client for Chrome for quickly browsing the feed without leaving the site
-- [devRant FireFox Extension](https://addons.mozilla.org/en-US/firefox/addon/devrant-unofficial-extension/) - Similar to the Chrome Extension but for FireFox
+- [devRant Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/devrant-unofficial-extension/) - Similar to the Chrome Extension but for Firefox
 - [devRant CLI](https://github.com/Supernerd11/terminal_devrant) - A devRant viewer in the terminal
 - [devRant Menu Bar App](https://github.com/danillouz/devrant-menu-bar-app) - A simple menu bar app to read rants
 - [devRant-ComputerCraft](https://github.com/olback/devRant-computercraft) - A devRant client written in Lua for ComputerCraft computers. (Minecraft Stuff)
@@ -81,7 +81,7 @@ _There are probably are some that I've missed. Sorry._
 
 #### Plugins & Extensions
 - [devRant Chrome Extension](https://chrome.google.com/webstore/detail/un-official-devrant-chrom/nhilbnepbfofblijmiiihfkdgmnnblie) - A devRant client for Chrome for quickly browsing the feed without leaving the site
-- [devRant FireFox Extension](https://addons.mozilla.org/en-US/firefox/addon/devrant-unofficial-extension/) - Similar to the Chrome Extension but for FireFox
+- [devRant Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/devrant-unofficial-extension/) - A devRant client for Firefox for quickly browsing the feed without leaving the site
 - [Pebble Watchface](https://apps.getpebble.com/en_US/application/5772d71fba2fe566a10003e2) - devRant watchface for Pebble
 - [Notifier Chrome Extension](https://chrome.google.com/webstore/detail/unofficial-notifications/nmgffgjfpcfdnkdjkbpkcindafjihmpl) - This extension will send you a notification whenever a new rant has been posted on devRant
 - [WordPress Plugin](https://wordpress.org/plugins/devranter/) - Display devRant rants in your WordPress sidebar or content
