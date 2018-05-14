@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-    <img height="300" src="https://s7.postimg.cc/c5syloa2j/Dev_Rant_Logo.png" />
+    <img height="300" src="devRant-Logo.png" />
   <br>
   <br>
   <br>
