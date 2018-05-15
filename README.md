@@ -11,7 +11,7 @@
 
 > A curated list of awesome devRant projects, libraries, software and resources
 
-DevRant is a fun community for developers to connect over code, tech & life as a programmer.
+devRant is a fun community for developers to connect over code, tech & life as a programmer.
 
 ## Contents
 
