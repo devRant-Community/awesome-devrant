@@ -47,9 +47,10 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - [xmlRant](https://www.xmlrant.com/) - Similar to jsRant but in XML Format
 - [devRant Chrome Extension](https://chrome.google.com/webstore/detail/un-official-devrant-chrom/nhilbnepbfofblijmiiihfkdgmnnblie) - A devRant client for Chrome for quickly browsing the feed without leaving the site
 - [devRant Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/devrant-unofficial-extension/) - Similar to the Chrome Extension but for Firefox
-- [devRant CLI](https://github.com/Supernerd11/terminal_devrant) - A devRant viewer in the terminal
+- [Terminal devRant](https://github.com/Supernerd11/terminal_devrant) - A devRant viewer in the terminal
 - [devRant Menu Bar App](https://github.com/danillouz/devrant-menu-bar-app) - A simple menu bar app to read rants
 - [devRant-ComputerCraft](https://github.com/olback/devRant-computercraft) - A devRant client written in Lua for ComputerCraft computers. (Minecraft Stuff)
+- [devRant CLI](https://github.com/kurtr/devRantCLI) - devRant terminal client with ASCII image conversion
 
 #### Libraries
 - [devRant-C#](https://github.com/WichardRiezebos/devrant) - A C# wrapper for the devRant API
