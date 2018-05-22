@@ -23,6 +23,7 @@ devRant is a fun community for developers to connect over code, tech & life as a
   - [Websites](#websites)
   - [Plugins & Extensions](#plugins--extensions)
   - [Bots](#bots)
+  - [User Scripts](#user-scripts)
   - [Other](#other)
 - [Mention of devRant](#mention-of-devrant)
 
@@ -99,10 +100,12 @@ _There are probably are some that I've missed. Sorry._
 - [devRant Telegram-Bot](https://github.com/puneetsngh/devrantbot) - devRant Bot for Telegram messaging app
 - [devRantBot](https://github.com/TTvanWillegen/devRantBot) - Another devRant Bot for Discord created by and for the community
 
-#### Other
-- [semicolon.js](https://github.com/semicolon-package/semicolon.js) - A JavaScript library inspired by the 2017 april fools joke
+#### User Scripts
 - [binary devRant](https://github.com/7twin/devrant-april-fools-2018) - Tampermonkey script to display the devRant score in binary. Inspired by the 2018 april fools joke
 - [devrant-calmifier](https://github.com/7twin/devrant-calmifier) - Calm down rants, comments, feed and profiles, that use too much punctuation marks or capslock their entire message
+
+#### Other
+- [semicolon.js](https://github.com/semicolon-package/semicolon.js) - A JavaScript library inspired by the 2017 april fools joke
 - [platrant](http://platrant.com/) - A devRant powered platformer with Unity
 - [devRant-RSS](https://github.com/varundey/unofficial-devRant-rss) - RSS-Feed for devRant
 
