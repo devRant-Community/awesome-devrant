@@ -102,6 +102,7 @@ _There are probably are some that I've missed. Sorry._
 #### Other
 - [semicolon.js](https://github.com/semicolon-package/semicolon.js) - A JavaScript library inpired by the 2017 april fools joke
 - [binary devRant](https://github.com/7twin/devrant-april-fools-2018) - Tampermonkey script to display the devRant score in binary. Inpired by the 2018 april fools joke
+- [devrant-calmifier](https://github.com/7twin/devrant-calmifier) - Calm down rants, comments, feed and profiles, that use too much punctuation marks or capslock their entire message
 - [platrant](http://platrant.com/) - A devRant powered platformer with Unity
 - [devRant-RSS](https://github.com/varundey/unofficial-devRant-rss) - RSS-Feed for devRant
 
