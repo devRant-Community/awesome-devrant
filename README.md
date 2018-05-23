@@ -103,6 +103,7 @@ _There are probably some that I've missed. Sorry._
 #### User Scripts
 - [binary devRant](https://github.com/7twin/devrant-april-fools-2018) - Tampermonkey script to display the devRant score in binary. Inspired by the 2018 april fools joke
 - [devrant-calmifier](https://github.com/7twin/devrant-calmifier) - Calm down rants, comments, feed and profiles, that use too much punctuation marks or capslock their entire message
+- [devrant-subscribe-button](https://github.com/7twin/devrant-subscribe-button) - Add a button to subscribe to rant comments
 
 #### Other
 - [semicolon.js](https://github.com/semicolon-package/semicolon.js) - A JavaScript library inspired by the 2017 april fools joke
