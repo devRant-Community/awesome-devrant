@@ -54,22 +54,32 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - [devRant CLI](https://github.com/kurtr/devRantCLI) - devRant terminal client with ASCII image conversion
 
 #### Libraries
-- [devRant-C#](https://github.com/WichardRiezebos/devrant) - A C# wrapper for the devRant API
-- [devRant-Crystal](https://github.com/iostreamer-X/devRant-crystal) - A Crystal wrapper for the devRant API
-- [devGoRant](https://github.com/jayeshsolanki93/devgorant) - A Go wrapper for the devRant API
-- [goRant](https://github.com/Jay9596/goRant) - Another Go wrapper for the devRant API
-- [JavaRant](https://github.com/LucaScorpion/JavaRant) - A Java wrapper for the devRant API
-- [devRant-JS](https://github.com/danillouz/devrant) - A JavaScript wrapper for the devRant API
-- [devRant-API](https://github.com/nblackburn/devrant-api) - Another JavaScript wrapper for the devRant API
-- [RantScript](https://github.com/RekkyRek/RantScript) - A Node.js wrapper for the devRant API (probably most extensive currently)
-- [devRant-PHP](https://github.com/pxgamer/devrant-php) - A PHP wrapper for the devRant API
-- [pirant](https://github.com/aayush26/pirant) - A Python wrapper for the devRant API
-- [devRant-Python-API](https://github.com/coolq1000/devrant-python-api) - Another Python wrapper for the devRant API
-- [pydevrant](https://github.com/SergioLaRosa/pydevrant) - ANOTHER Python wrapper for the devRant API
-- [devRant-Ruby](https://github.com/alexdovzhanyn/devrant) - A Ruby wrapper for the devRant API
-- [devRant-Haskell](https://github.com/Supernerd11/devrant-haskell) - A Haskell wrapper for the devRant API
-- [devRant-Rust](https://github.com/flyingP0tat0/devrant) - A Rust wrapper for the devRant API
-- [devRant-Swift](https://github.com/troligtvis/devRant) - A Swift wrapper for the devRant API
+- Javascript
+  - [devRant-JS](https://github.com/danillouz/devrant) - A JavaScript wrapper for the devRant API
+  - [devRant-API](https://github.com/nblackburn/devrant-api) - Another JavaScript wrapper for the devRant API
+- Node.JS
+  - [RantScript](https://github.com/RekkyRek/RantScript) - A Node.js wrapper for the devRant API (probably most extensive currently)
+- PHP
+  - [devRant-PHP](https://github.com/pxgamer/devrant-php) - A PHP wrapper for the devRant API
+- .NET
+  - [devRant-C#](https://github.com/WichardRiezebos/devrant) - A C# wrapper for the devRant API
+- GO
+  - [devGoRant](https://github.com/jayeshsolanki93/devgorant) - A Go wrapper for the devRant API
+  - [goRant](https://github.com/Jay9596/goRant) - Another Go wrapper for the devRant API
+- Python
+  - [pirant](https://github.com/aayush26/pirant) - A Python wrapper for the devRant API
+  - [devRant-Python-API](https://github.com/coolq1000/devrant-python-api) - Another Python wrapper for the devRant API
+  - [pydevrant](https://github.com/SergioLaRosa/pydevrant) - ANOTHER Python wrapper for the devRant API
+- Ruby
+  - [devRant-Ruby](https://github.com/alexdovzhanyn/devrant) - A Ruby wrapper for the devRant API
+- Haskell
+  - [devRant-Haskell](https://github.com/Supernerd11/devrant-haskell) - A Haskell wrapper for the devRant API
+- Crystal
+  - [devRant-Crystal](https://github.com/iostreamer-X/devRant-crystal) - A Crystal wrapper for the devRant API
+- Rust
+  - [devRant-Rust](https://github.com/flyingP0tat0/devrant) - A Rust wrapper for the devRant API
+- Swift
+  - [devRant-Swift](https://github.com/troligtvis/devRant) - A Swift wrapper for the devRant API
 
 _There are probably some that I've missed. Sorry._
 
