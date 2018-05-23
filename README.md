@@ -71,7 +71,7 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - [devRant-Rust](https://github.com/flyingP0tat0/devrant) - A Rust wrapper for the devRant API
 - [devRant-Swift](https://github.com/troligtvis/devRant) - A Swift wrapper for the devRant API
 
-_There are probably are some that I've missed. Sorry._
+_There are probably some that I've missed. Sorry._
 
 #### Websites
 - [devRant-Stats](https://devrant-stats.github.io) - See Statistics for your devRant-Profile. Graphs, Live Stats, future projections and more!
