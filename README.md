@@ -115,6 +115,7 @@ _There are probably some that I've missed. Sorry._
 - [devrant-calmifier](https://github.com/7twin/devrant-calmifier) - Calm down rants, comments, feed and profiles, that use too much punctuation marks or capslock their entire message
 - [devrant-subscribe-button](https://github.com/7twin/devrant-subscribe-button) - Add a button to subscribe to rant comments
 - [devrant-notification-filter](https://github.com/7twin/devrant-notification-filter) - Add category filters to devrant notifications
+- [devrant-comment-rant-saver](https://github.com/7twin/devrant-comment-rant-saver) - Save comment or rant, when accidentally clicking outside the textbox area
 
 #### Other
 - [semicolon.js](https://github.com/semicolon-package/semicolon.js) - A JavaScript library inspired by the 2017 april fools joke
