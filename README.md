@@ -119,7 +119,7 @@ _There are probably some that I've missed. Sorry._
 
 #### Other
 - [semicolon.js](https://github.com/semicolon-package/semicolon.js) - A JavaScript library inspired by the 2017 april fools joke
-- [platrant](http://platrant.com/) - A devRant powered platformer with Unity
+- [platrant](http://platrant.com/) - A devRant powered platformer made with Unity
 - [devRant-RSS](https://github.com/varundey/unofficial-devRant-rss) - RSS-Feed for devRant
 
 ### Mention of devRant
