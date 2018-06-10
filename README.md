@@ -23,7 +23,7 @@ devRant is a fun community for developers to connect over code, tech & life as a
   - [Websites](#websites)
   - [Plugins & Extensions](#plugins--extensions)
   - [Bots](#bots)
-  - [User Scripts](#user-scripts)
+  - [User Scripts / User Styles](#user-scripts--user-styles)
   - [Other](#other)
 - [Mention of devRant](#mention-of-devrant)
 
@@ -110,19 +110,19 @@ _There are probably some that I've missed. Sorry._
 - [devRant Telegram-Bot](https://github.com/puneetsngh/devrantbot) - devRant Bot for Telegram messaging app
 - [devRantBot](https://github.com/TTvanWillegen/devRantBot) - Another devRant Bot for Discord created by and for the community
 
-#### User Scripts
+#### User Scripts / User Styles
 - [binary devRant](https://github.com/7twin/devrant-april-fools-2018) - Tampermonkey script to display the devRant score in binary. Inspired by the 2018 april fools joke
 - [devrant-calmifier](https://github.com/7twin/devrant-calmifier) - Calm down rants, comments, feed and profiles, that use too much punctuation marks or capslock their entire message
 - [devrant-subscribe-button](https://github.com/7twin/devrant-subscribe-button) - Add a button to subscribe to rant comments
 - [devrant-notification-filter](https://github.com/7twin/devrant-notification-filter) - Add category filters to devrant notifications
 - [devrant-comment-rant-saver](https://github.com/7twin/devrant-comment-rant-saver) - Save comment or rant, when accidentally clicking outside the textbox area
 - [devrant-sweetener](https://gitlab.com/mb5quax/devrant-sweetener) - Replaces the bright background of rants to reduce strain on eyes
+- [devRant Decolorizer](https://github.com/Parou/devRant-Decolorizer) - A Userstyle based on what devrant-sweetener accomplishes.
 
 #### Other
 - [semicolon.js](https://github.com/semicolon-package/semicolon.js) - A JavaScript library inspired by the 2017 april fools joke
 - [platrant](http://platrant.com/) - A devRant powered platformer made with Unity
 - [devRant-RSS](https://github.com/varundey/unofficial-devRant-rss) - RSS-Feed for devRant
-- [devRant Decolorizer](https://github.com/Parou/devRant-Decolorizer) - A Userstyle based on what devrant-sweetener accomplishes.
 
 ### Mention of devRant
 - TNW > [devRant is the app for developers who like to complain (aka, all of them)](https://thenextweb.com/apps/2016/05/12/devrant-developer-wah-wah-wah-app/)
