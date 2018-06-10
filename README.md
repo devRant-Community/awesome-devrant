@@ -116,11 +116,13 @@ _There are probably some that I've missed. Sorry._
 - [devrant-subscribe-button](https://github.com/7twin/devrant-subscribe-button) - Add a button to subscribe to rant comments
 - [devrant-notification-filter](https://github.com/7twin/devrant-notification-filter) - Add category filters to devrant notifications
 - [devrant-comment-rant-saver](https://github.com/7twin/devrant-comment-rant-saver) - Save comment or rant, when accidentally clicking outside the textbox area
+- [devrant-sweetener](https://gitlab.com/mb5quax/devrant-sweetener) - Replaces the bright background of rants to reduce strain on eyes
 
 #### Other
 - [semicolon.js](https://github.com/semicolon-package/semicolon.js) - A JavaScript library inspired by the 2017 april fools joke
 - [platrant](http://platrant.com/) - A devRant powered platformer made with Unity
 - [devRant-RSS](https://github.com/varundey/unofficial-devRant-rss) - RSS-Feed for devRant
+- [devRant Decolorizer](https://github.com/Parou/devRant-Decolorizer) - A Userstyle based on what devrant-sweetener accomplishes.
 
 ### Mention of devRant
 - TNW > [devRant is the app for developers who like to complain (aka, all of them)](https://thenextweb.com/apps/2016/05/12/devrant-developer-wah-wah-wah-app/)
