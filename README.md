@@ -118,6 +118,7 @@ _There are probably some that I've missed. Sorry._
 - [devrant-comment-rant-saver](https://github.com/7twin/devrant-comment-rant-saver) - Save comment or rant, when accidentally clicking outside the textbox area
 - [devrant-sweetener](https://gitlab.com/mb5quax/devrant-sweetener) - Replaces the bright background of rants to reduce strain on eyes
 - [devRant Decolorizer](https://github.com/Parou/devRant-Decolorizer) - A Userstyle based on what devrant-sweetener accomplishes.
+- [devrant-Rager](https://bitbucket.org/hund335/devrant-rager/src/master/) - Does the opposite of devRant-calmifier. Adds a lot of rage in every rant.
 
 #### Other
 - [semicolon.js](https://github.com/semicolon-package/semicolon.js) - A JavaScript library inspired by the 2017 april fools joke
