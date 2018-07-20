@@ -45,7 +45,7 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - [devRantron](https://devrantron.firebaseapp.com/) - An open source devRant client built by devRant community members
 - [devRant UWP App](https://www.microsoft.com/en-us/store/p/devrant-unofficial-uwp/9nblggh43lxr?rtc=1) - The first devRant Windows 10 client
 - [jsRant](http://www.jsrant.com/) - Navigate the devRant feed in JSON format. Perfect for browsing devRant at work!
-- [xmlRant](https://www.xmlrant.com/) - Similar to jsRant but in XML Format
+- [xmlRant](https://www.xmlrant.com/) - Similar to jsRant but in XML Format (Dark theme!)
 - [devRant Chrome Extension](https://chrome.google.com/webstore/detail/un-official-devrant-chrom/nhilbnepbfofblijmiiihfkdgmnnblie) - A devRant client for Chrome for quickly browsing the feed without leaving the site
 - [devRant Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/devrant-unofficial-extension/) - Similar to the Chrome Extension but for Firefox
 - [Terminal devRant](https://github.com/Supernerd11/terminal_devrant) - A devRant viewer in the terminal
@@ -81,15 +81,12 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - Swift
   - [devRant-Swift](https://github.com/troligtvis/devRant) - A Swift wrapper for the devRant API
 
-_There are probably some that I've missed. Sorry._
-
 #### Websites
 - [devRant-Stats](https://devrant-stats.github.io) - See Statistics for your devRant-Profile. Graphs, Live Stats, future projections and more!
 - [devRant-Docs](https://devrant-docs.github.io) - A unofficial but very extensive DevRant-API Documentation with explanations, lots of examples, a testing area and even a Q&A section!
 - [rantChat](https://rantchat.github.io) - A simple but cool chatroom for devRant Users. Meet new people and talk about devRant, Life or other Dev-Stuff! (WIP)
-- [devBanner](https://devbanner.center) - devBanner creates your own personalized banner for you!
+- [devBanner](https://devbanner.center) - devBanner creates your own personalized devRant banner for you!
 - [devCredits](https://devcredits.herokuapp.com/) - An easy way to make a credits page for devRant community projects
-- [RantComics](https://github.com/devBanner/RantComics) - Make your own devRant based comics with the community! (WIP, paused)
 
 #### Plugins & Extensions
 - [devRant Chrome Extension](https://chrome.google.com/webstore/detail/un-official-devrant-chrom/nhilbnepbfofblijmiiihfkdgmnnblie) - A devRant client for Chrome for quickly browsing the feed without leaving the site
@@ -131,9 +128,9 @@ _There are probably some that I've missed. Sorry._
 - Fossbytes > [devRant — Here’s The Ultimate App That Every Developer Must Use](http://fossbytes.com/devrant-app-for-developers-social-network-programmers-rant/)
 - SDTimes > [Report: What’s driving developers crazy](https://sdtimes.com/coding/report-whats-driving-developers-crazy/)
 - ADTmag > [Developer Rants Reveal Most Annoying Programming Languages](https://adtmag.com/articles/2016/08/08/devrant-rankings.aspx)
-- Appcelerator > [DevRant Gives Developers a Social Network All Their Own](https://www.fossmint.com/devrantron-desktop-client-for-devrant/)
+- Appcelerator > [DevRant Gives Developers a Social Network All Their Own](https://www.appcelerator.com/blog/2016/11/devrant-gives-developers-a-social-network-all-their-own/)
 
-> Please don't hesitate to make a PR if you have more resources to share.
+> There are probably some that I've missed. Please don't hesitate to make a PR if you have more resources to share. Thanks!
 
 ## License
 
