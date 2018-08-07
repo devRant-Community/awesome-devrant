@@ -70,7 +70,7 @@ devRant is a fun community for developers to connect over code, tech & life as a
   - [pirant](https://github.com/aayush26/pirant) - A Python wrapper for the devRant API
   - [devRant-Python-API](https://github.com/coolq1000/devrant-python-api) - Another Python wrapper for the devRant API
   - [pydevrant](https://github.com/SergioLaRosa/pydevrant) - ANOTHER Python wrapper for the devRant API
-	- [devRantSimple](https://github.com/Ewpratten/devRantSimple) - A simple python devRant API wrapper for the lazy people
+  - [devRantSimple](https://github.com/Ewpratten/devRantSimple) - A simple python devRant API wrapper for the lazy people
 - Ruby
   - [devRant-Ruby](https://github.com/alexdovzhanyn/devrant) - A Ruby wrapper for the devRant API
 - Haskell
