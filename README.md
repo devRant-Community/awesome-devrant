@@ -78,8 +78,6 @@ devRant is a fun community for developers to connect over code, tech & life as a
   - [devRant-Haskell](https://github.com/Supernerd11/devrant-haskell) - A Haskell wrapper for the devRant API
 - Crystal
   - [devRant-Crystal](https://github.com/iostreamer-X/devRant-crystal) - A Crystal wrapper for the devRant API
-- Rust
-  - [devRant-Rust](https://github.com/flyingP0tat0/devrant) - A Rust wrapper for the devRant API
 - Swift
   - [devRant-Swift](https://github.com/troligtvis/devRant) - A Swift wrapper for the devRant API
 
@@ -93,7 +91,6 @@ devRant is a fun community for developers to connect over code, tech & life as a
 #### Plugins & Extensions
 - [devRant Chrome Extension](https://chrome.google.com/webstore/detail/un-official-devrant-chrom/nhilbnepbfofblijmiiihfkdgmnnblie) - A devRant client for Chrome for quickly browsing the feed without leaving the site
 - [devRant Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/devrant-unofficial-extension/) - A devRant client for Firefox for quickly browsing the feed without leaving the site
-- [Pebble Watchface](https://apps.getpebble.com/en_US/application/5772d71fba2fe566a10003e2) - devRant watchface for Pebble
 - [Notifier Chrome Extension](https://chrome.google.com/webstore/detail/unofficial-notifications/nmgffgjfpcfdnkdjkbpkcindafjihmpl) - This extension will send you a notification whenever a new rant has been posted on devRant
 - [WordPress Plugin](https://wordpress.org/plugins/devranter/) - Display devRant rants in your WordPress sidebar or content
 - [Devranter](https://github.com/chrishaensel/Devranter) - Another devRant wordpress plugin
