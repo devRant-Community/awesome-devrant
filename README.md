@@ -53,6 +53,7 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - [devRant Menu Bar App](https://github.com/danillouz/devrant-menu-bar-app) - A simple menu bar app to read rants
 - [devRant-ComputerCraft](https://github.com/olback/devRant-computercraft) - A devRant client written in Lua for ComputerCraft computers. (Minecraft Stuff)
 - [devRant CLI](https://github.com/kurtr/devRantCLI) - devRant terminal client with ASCII image conversion
+- [/dev/rant/](https://gitlab.com/netikras/dev_rant_linux) - A simple devrant.com integration into Linux via /dev/rant
 
 #### Libraries
 - Javascript
