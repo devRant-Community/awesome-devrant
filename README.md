@@ -121,6 +121,7 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - [semicolon.js](https://github.com/semicolon-package/semicolon.js) - A JavaScript library inspired by the 2017 april fools joke
 - [platrant](http://platrant.com/) - A devRant powered platformer made with Unity
 - [devRant-RSS](https://github.com/varundey/unofficial-devRant-rss) - RSS-Feed for devRant
+- [devss](https://github.com/PogromistDev/Devss) - Take screenshot of your pc's screen not take photo of it
 
 ### Mention of devRant
 - TNW > [devRant is the app for developers who like to complain (aka, all of them)](https://thenextweb.com/apps/2016/05/12/devrant-developer-wah-wah-wah-app/)
