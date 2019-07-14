@@ -50,7 +50,6 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - [devRant Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/devrant-unofficial-extension/) - Similar to the Chrome Extension but for Firefox
 - [dr](https://github.com/ewpratten/dr) - An [ed](https://www.gnu.org/software/ed/ed.html)-like devrant client with support for chromebooks
 - [Terminal devRant](https://github.com/Supernerd11/terminal_devrant) - A devRant viewer in the terminal
-- [devRant Menu Bar App](https://github.com/danillouz/devrant-menu-bar-app) - A simple menu bar app to read rants
 - [devRant-ComputerCraft](https://github.com/olback/devRant-computercraft) - A devRant client written in Lua for ComputerCraft computers. (Minecraft Stuff)
 - [devRant CLI](https://github.com/kurtr/devRantCLI) - devRant terminal client with ASCII image conversion
 - [/dev/rant/](https://gitlab.com/netikras/dev_rant_linux) - A simple devrant.com integration into Linux via /dev/rant
@@ -83,7 +82,6 @@ devRant is a fun community for developers to connect over code, tech & life as a
   - [devRant-Swift](https://github.com/troligtvis/devRant) - A Swift wrapper for the devRant API
 
 #### Websites
-- [devRant-Stats](https://devrant-stats.github.io) - See Statistics for your devRant-Profile. Graphs, Live Stats, future projections and more!
 - [devRant-Docs](https://devrant-docs.github.io) - A unofficial but very extensive DevRant-API Documentation with explanations, lots of examples, a testing area and even a Q&A section!
 - [rantChat](https://rantchat.github.io) - A simple but cool chatroom for devRant Users. Meet new people and talk about devRant, Life or other Dev-Stuff! (WIP)
 - [devBanner](https://devbanner.center) - devBanner creates your own personalized devRant banner for you!
@@ -96,7 +94,6 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - [WordPress Plugin](https://wordpress.org/plugins/devranter/) - Display devRant rants in your WordPress sidebar or content
 - [Devranter](https://github.com/chrishaensel/Devranter) - Another devRant wordpress plugin
 - [devRant-Plus](https://github.com/Section214/devrant-plus) - Another devRant extension for FireFox
-- [Atom-DevRant](https://github.com/sambadevi/atom-devrant) - A simple sidebar to view the devRant feed inside Atom
 - [rantBlock](https://github.com/kurtr/rantBlock) - Replace adverts with rants from devRant
 - [devrant-widget](https://github.com/konicm8ker/devrant-widget) - A simple widget for devRant written in PHP
 
@@ -124,17 +121,16 @@ devRant is a fun community for developers to connect over code, tech & life as a
 
 #### Other
 - [semicolon.js](https://github.com/semicolon-package/semicolon.js) - A JavaScript library inspired by the 2017 april fools joke
-- [platrant](http://platrant.com/) - A devRant powered platformer made with Unity
 - [devRant-RSS](https://github.com/varundey/unofficial-devRant-rss) - RSS-Feed for devRant
 - [devss](https://github.com/PogromistDev/Devss) - Take screenshot of your pc's screen not take photo of it
 
 ### Mention of devRant
 - TNW > [devRant is the app for developers who like to complain (aka, all of them)](https://thenextweb.com/apps/2016/05/12/devrant-developer-wah-wah-wah-app/)
 - Forbes > [devRant Reveals The Developers Who Rant The Most, But For Whom The Rant Tolls?](https://www.forbes.com/sites/curtissilver/2016/07/28/devrant-developers-rant/#3257b7996458)
-- Fossbytes > [devRant — Here’s The Ultimate App That Every Developer Must Use](http://fossbytes.com/devrant-app-for-developers-social-network-programmers-rant/)
+- Fossbytes > [devRant — Here’s The Ultimate App That Every Developer Must Use](https://fossbytes.com/devrant-app-for-developers-social-network-programmers-rant/)
 - SDTimes > [Report: What’s driving developers crazy](https://sdtimes.com/coding/report-whats-driving-developers-crazy/)
 - ADTmag > [Developer Rants Reveal Most Annoying Programming Languages](https://adtmag.com/articles/2016/08/08/devrant-rankings.aspx)
-- Appcelerator > [DevRant Gives Developers a Social Network All Their Own](https://www.appcelerator.com/blog/2016/11/devrant-gives-developers-a-social-network-all-their-own/)
+- Appcelerator > [DevRant Gives Developers a Social Network All Their Own](https://devblog.axway.com/2016/11/devrant-gives-developers-a-social-network-all-their-own/)
 
 > There are probably some that I've missed. Please don't hesitate to make a PR if you have more resources to share. Thanks!
 
