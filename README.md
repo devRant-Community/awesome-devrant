@@ -100,14 +100,17 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - [rantBlock](https://github.com/kurtr/rantBlock) - Replace adverts with rants from devRant
 - [devrant-widget](https://github.com/konicm8ker/devrant-widget) - A simple widget for devRant written in PHP
 
-#### Bots
-- [devRant Slack-Bot](https://github.com/nblackburn/devrant-bot) - Share your favorite devRant moments in Slack
-- [DiscordDevRant](https://github.com/tankerkiller125/DiscordDevRant) - devRant Bot for Discord (Put latest post in channel, reference post, etc.)
-- [devRant.Bot](https://github.com/nullopt/devRant.Bot) - Another devRant Bot for Discord
-- [devRant Telegram-Bot](https://github.com/puneetsngh/devrantbot) - devRant Bot for Telegram messaging app
-- [devRantBot](https://github.com/TTvanWillegen/devRantBot) - Another devRant Bot for Discord created by and for the community
-- [devDNS](https://github.com/Ewpratten/devDNS) - A DNS over devRant service for resolving DNS queries
-- [drBot](https://github.com/Ewpratten/drbot) - A python library and framework for building notification-based devRant bots
+#### Bots (In- and Outside of devRant)
+- Bots on devRant
+  - [RandomQuote](https://github.com/Skayo/DevRant-RandomQuoteBot) - A bot that posts random quotes to devRant everyday
+  - [devDNS](https://github.com/Ewpratten/devDNS) - A DNS over devRant service for resolving DNS queries
+  - [drBot](https://github.com/Ewpratten/drbot) - A python library and framework for building notification-based devRant bots
+- Bots on other platforms
+  - [devRant Slack-Bot](https://github.com/nblackburn/devrant-bot) - Share your favorite devRant moments in Slack
+  - [DiscordDevRant](https://github.com/tankerkiller125/DiscordDevRant) - devRant Bot for Discord (Put latest post in channel, reference post, etc.)
+  - [devRant.Bot](https://github.com/nullopt/devRant.Bot) - Another devRant Bot for Discord
+  - [devRant Telegram-Bot](https://github.com/puneetsngh/devrantbot) - devRant Bot for Telegram messaging app
+  - [devRantBot](https://github.com/TTvanWillegen/devRantBot) - Another devRant Bot for Discord created by and for the community
 
 #### User Scripts / User Styles
 - [binary devRant](https://github.com/7twin/devrant-april-fools-2018) - Tampermonkey script to display the devRant score in binary. Inspired by the 2018 april fools joke
