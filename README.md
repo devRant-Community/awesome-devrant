@@ -130,7 +130,7 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - Fossbytes > [devRant — Here’s The Ultimate App That Every Developer Must Use](https://fossbytes.com/devrant-app-for-developers-social-network-programmers-rant/)
 - SDTimes > [Report: What’s driving developers crazy](https://sdtimes.com/coding/report-whats-driving-developers-crazy/)
 - ADTmag > [Developer Rants Reveal Most Annoying Programming Languages](https://adtmag.com/articles/2016/08/08/devrant-rankings.aspx)
-- Appcelerator > [DevRant Gives Developers a Social Network All Their Own](https://devblog.axway.com/2016/11/devrant-gives-developers-a-social-network-all-their-own/)
+- Appcelerator > [DevRant Gives Developers a Social Network All Their Own](https://devblog.axway.com/mobile-apps/devrant-gives-developers-a-social-network-all-their-own/)
 
 > There are probably some that I've missed. Please don't hesitate to make a PR if you have more resources to share. Thanks!
 
