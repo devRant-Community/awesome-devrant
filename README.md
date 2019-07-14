@@ -100,7 +100,7 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - [rantBlock](https://github.com/kurtr/rantBlock) - Replace adverts with rants from devRant
 - [devrant-widget](https://github.com/konicm8ker/devrant-widget) - A simple widget for devRant written in PHP
 
-#### Bots (In- and Outside of devRant)
+#### Bots
 - Bots on devRant
   - [RandomQuote](https://github.com/Skayo/DevRant-RandomQuoteBot) - A bot that posts random quotes to devRant everyday
   - [devDNS](https://github.com/Ewpratten/devDNS) - A DNS over devRant service for resolving DNS queries
