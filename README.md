@@ -106,6 +106,8 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - [devRant.Bot](https://github.com/nullopt/devRant.Bot) - Another devRant Bot for Discord
 - [devRant Telegram-Bot](https://github.com/puneetsngh/devrantbot) - devRant Bot for Telegram messaging app
 - [devRantBot](https://github.com/TTvanWillegen/devRantBot) - Another devRant Bot for Discord created by and for the community
+- [devDNS](https://github.com/Ewpratten/devDNS) - A DNS over devRant service for resolving DNS queries
+- [drBot](https://github.com/Ewpratten/drbot) - A python library and framework for building notification-based devRant bots
 
 #### User Scripts / User Styles
 - [binary devRant](https://github.com/7twin/devrant-april-fools-2018) - Tampermonkey script to display the devRant score in binary. Inspired by the 2018 april fools joke
