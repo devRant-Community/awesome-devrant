@@ -62,6 +62,7 @@ devRant is a fun community for developers to connect over code, tech & life as a
   - [RantScript](https://github.com/RekkyRek/RantScript) - A Node.js wrapper for the devRant API (probably most extensive currently)
 - PHP
   - [devRant-PHP](https://github.com/pxgamer/devrant-php) - A PHP wrapper for the devRant API
+	- [phpRant](https://gist.github.com/Skayo/87eb4cbee4c10fa2c445013b3103d5c8) - Another PHP wrapper for the devRant API (as extensive as RantScript)
 - .NET
   - [devRant-C#](https://github.com/WichardRiezebos/devrant) - A C# wrapper for the devRant API
 - GO
