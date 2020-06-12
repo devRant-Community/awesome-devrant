@@ -15,17 +15,20 @@ devRant is a fun community for developers to connect over code, tech & life as a
 
 ## Contents
 
-- [Links](#links)
-- [Social](#social)
-- [devRant-related Projects](#devrant-related-projects)
-  - [Clients](#clients)
-  - [Libraries](#libraries)
-  - [Websites](#websites)
-  - [Plugins & Extensions](#plugins--extensions)
-  - [Bots](#bots)
-  - [User Scripts / User Styles](#user-scripts--user-styles)
-  - [Other](#other)
-- [Mention of devRant](#mention-of-devrant)
+- [Awesome devRant ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-devrant-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
+- [Contents](#contents)
+  - [Links](#links)
+  - [Social](#social)
+  - [devRant-related Projects](#devrant-related-projects)
+    - [Clients](#clients)
+    - [Libraries](#libraries)
+    - [Websites](#websites)
+    - [Plugins & Extensions](#plugins--extensions)
+    - [Bots](#bots)
+    - [User Scripts / User Styles](#user-scripts--user-styles)
+    - [Other](#other)
+  - [Mention of devRant](#mention-of-devrant)
+- [License](#license)
 
 ### Links
 
@@ -68,6 +71,7 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - GO
   - [devGoRant](https://github.com/jayeshsolanki93/devgorant) - A Go wrapper for the devRant API
   - [goRant](https://github.com/Jay9596/goRant) - Another Go wrapper for the devRant API
+  - [godevrant](https://github.com/frogstair/godevrant) - A Go wrapper that includes authentication and user interaction
 - Python
   - [pirant](https://github.com/aayush26/pirant) - A Python wrapper for the devRant API
   - [devRant-Python-API](https://github.com/coolq1000/devrant-python-api) - Another Python wrapper for the devRant API
