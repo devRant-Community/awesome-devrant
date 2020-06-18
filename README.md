@@ -33,7 +33,7 @@ devRant is a fun community for developers to connect over code, tech & life as a
 ### Links
 
 - [Official Website](https://devrant.com)
-- [Unofficial API Docs](https://devrant-docs.github.io)
+- [Unofficial API Docs](https://devrantapi.docs.apiary.io)
 - [devRant Official Issue Tracker](https://github.com/devRant/devRant)
 
 ### Social
