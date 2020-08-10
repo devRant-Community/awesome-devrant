@@ -91,6 +91,7 @@ devRant is a fun community for developers to connect over code, tech & life as a
 - [rantChat](https://rantchat.github.io) - A simple but cool chatroom for devRant Users. Meet new people and talk about devRant, Life or other Dev-Stuff! (WIP)
 - [devBanner](https://devbanner.center) - devBanner creates your own personalized devRant banner for you!
 - [devCredits](https://devcredits.herokuapp.com/) - An easy way to make a credits page for devRant community projects
+- [devRantChat](https://discord.gg/Q7zj2DQ) - Discord server for devRant community
 
 #### Plugins & Extensions
 - [devRant Chrome Extension](https://chrome.google.com/webstore/detail/un-official-devrant-chrom/nhilbnepbfofblijmiiihfkdgmnnblie) - A devRant client for Chrome for quickly browsing the feed without leaving the site
