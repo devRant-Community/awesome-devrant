@@ -109,6 +109,9 @@ devRant is a fun community for developers to connect over code, tech & life as a
   - [RandomQuote](https://github.com/Skayo/DevRant-RandomQuoteBot) - A bot that posts random quotes to devRant everyday
   - [devDNS](https://github.com/Ewpratten/devDNS) - A DNS over devRant service for resolving DNS queries
   - [drBot](https://github.com/Ewpratten/drbot) - A python library and framework for building notification-based devRant bots
+  - [memesbot](https://devrant.com/users/memesbot) - Bot that posts a given meme based on query when mentioned
+  - [wiki](https://devrant.com/users/wiki) - Bot to show a wikipedia snippet and link based on query
+  - [trivia](https://devrant.com/users/trivia) - A bot that posts trivia on being mentioned
 - Bots on other platforms
   - [devRant Slack-Bot](https://github.com/nblackburn/devrant-bot) - Share your favorite devRant moments in Slack
   - [DiscordDevRant](https://github.com/tankerkiller125/DiscordDevRant) - devRant Bot for Discord (Put latest post in channel, reference post, etc.)
