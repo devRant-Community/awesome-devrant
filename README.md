@@ -59,11 +59,13 @@ devRant is a fun community for developers to connect over code, tech & life as a
 
 #### Libraries
 - Javascript
+  - [devrant-lite](https://github.com/devRant-Community/devrant-lite) - A tiny, fully-featured REST client for the unofficial devRant API
   - [devRant-JS](https://github.com/danillouz/devrant) - A JavaScript wrapper for the devRant API
   - [devRant-API](https://github.com/nblackburn/devrant-api) - Another JavaScript wrapper for the devRant API
   - [ts-devrant](https://github.com/dr010001111/ts-devrant/) - Isomorphic, TypeScript based wrapper for the devRant API (inspired by RantScript)
   - [devrant-bot](https://github.com/theabbie/devrant-bot) - A wrapper for DevRant API specifically to create bots
 - Node.JS
+  - [devrant-lite](https://github.com/devRant-Community/devrant-lite) - A tiny, fully-featured REST client for the unofficial devRant API
   - [RantScript](https://github.com/RekkyRek/RantScript) - A Node.js wrapper for the devRant API (probably most extensive currently)
   - [ts-devrant](https://github.com/dr010001111/ts-devrant/) - Isomorphic, TypeScript based wrapper for the devRant API (inspired by RantScript)
   - [devrant-bot](https://github.com/theabbie/devrant-bot) - A wrapper for DevRant API specifically to create bots
